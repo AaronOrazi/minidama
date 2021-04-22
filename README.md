@@ -1,0 +1,2 @@
+# minidama
+Mi minidamas
